@@ -1,0 +1,9 @@
+bson
+marshmallow
+mongoengine
+marshmallow-mongoengine
+hug
+PyJWT
+pytest
+mongomock
+gunicorn
